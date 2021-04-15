@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/luizcardim/.pyenv/versions/3.8.5/bin",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.cacheFolderPath": "/Users/luizcardim/.vscode/cache_python",
+    "python.jediEnabled": false,
+    "python.languageServer": "Pylance"
+}
